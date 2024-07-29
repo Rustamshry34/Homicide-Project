@@ -1,4 +1,4 @@
-# Homicide-Project
+# Homicide-analysis
 
 In this Mini Project i completed the following tasks: 
 
